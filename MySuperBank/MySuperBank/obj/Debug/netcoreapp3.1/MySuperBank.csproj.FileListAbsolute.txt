@@ -1,0 +1,12 @@
+/Users/ayushmittal/Projects/MySuperBank/MySuperBank/obj/Debug/netcoreapp3.1/MySuperBank.csproj.AssemblyReference.cache
+/Users/ayushmittal/Projects/MySuperBank/MySuperBank/obj/Debug/netcoreapp3.1/MySuperBank.AssemblyInfoInputs.cache
+/Users/ayushmittal/Projects/MySuperBank/MySuperBank/obj/Debug/netcoreapp3.1/MySuperBank.AssemblyInfo.cs
+/Users/ayushmittal/Projects/MySuperBank/MySuperBank/obj/Debug/netcoreapp3.1/MySuperBank.csproj.CoreCompileInputs.cache
+/Users/ayushmittal/Projects/MySuperBank/MySuperBank/bin/Debug/netcoreapp3.1/MySuperBank.deps.json
+/Users/ayushmittal/Projects/MySuperBank/MySuperBank/bin/Debug/netcoreapp3.1/MySuperBank.runtimeconfig.json
+/Users/ayushmittal/Projects/MySuperBank/MySuperBank/bin/Debug/netcoreapp3.1/MySuperBank.runtimeconfig.dev.json
+/Users/ayushmittal/Projects/MySuperBank/MySuperBank/bin/Debug/netcoreapp3.1/MySuperBank.dll
+/Users/ayushmittal/Projects/MySuperBank/MySuperBank/bin/Debug/netcoreapp3.1/MySuperBank.pdb
+/Users/ayushmittal/Projects/MySuperBank/MySuperBank/obj/Debug/netcoreapp3.1/MySuperBank.dll
+/Users/ayushmittal/Projects/MySuperBank/MySuperBank/obj/Debug/netcoreapp3.1/MySuperBank.pdb
+/Users/ayushmittal/Projects/MySuperBank/MySuperBank/obj/Debug/netcoreapp3.1/MySuperBank.genruntimeconfig.cache

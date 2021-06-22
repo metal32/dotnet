@@ -1,0 +1,12 @@
+/Users/ayushmittal/Projects/Shape/Shape/bin/Debug/netcoreapp3.1/Shape.deps.json
+/Users/ayushmittal/Projects/Shape/Shape/bin/Debug/netcoreapp3.1/Shape.runtimeconfig.json
+/Users/ayushmittal/Projects/Shape/Shape/bin/Debug/netcoreapp3.1/Shape.runtimeconfig.dev.json
+/Users/ayushmittal/Projects/Shape/Shape/bin/Debug/netcoreapp3.1/Shape.dll
+/Users/ayushmittal/Projects/Shape/Shape/bin/Debug/netcoreapp3.1/Shape.pdb
+/Users/ayushmittal/Projects/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.csproj.AssemblyReference.cache
+/Users/ayushmittal/Projects/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.AssemblyInfoInputs.cache
+/Users/ayushmittal/Projects/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.AssemblyInfo.cs
+/Users/ayushmittal/Projects/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.csproj.CoreCompileInputs.cache
+/Users/ayushmittal/Projects/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.dll
+/Users/ayushmittal/Projects/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.pdb
+/Users/ayushmittal/Projects/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/ayushmittal/Projects/InheritanceExample/InheritanceExample/bin/Debug/netcoreapp3.1/InheritanceExample.deps.json
+/Users/ayushmittal/Projects/InheritanceExample/InheritanceExample/bin/Debug/netcoreapp3.1/InheritanceExample.runtimeconfig.json
+/Users/ayushmittal/Projects/InheritanceExample/InheritanceExample/bin/Debug/netcoreapp3.1/InheritanceExample.runtimeconfig.dev.json
+/Users/ayushmittal/Projects/InheritanceExample/InheritanceExample/bin/Debug/netcoreapp3.1/InheritanceExample.dll
+/Users/ayushmittal/Projects/InheritanceExample/InheritanceExample/bin/Debug/netcoreapp3.1/InheritanceExample.pdb
+/Users/ayushmittal/Projects/InheritanceExample/InheritanceExample/obj/Debug/netcoreapp3.1/InheritanceExample.csproj.AssemblyReference.cache
+/Users/ayushmittal/Projects/InheritanceExample/InheritanceExample/obj/Debug/netcoreapp3.1/InheritanceExample.AssemblyInfoInputs.cache
+/Users/ayushmittal/Projects/InheritanceExample/InheritanceExample/obj/Debug/netcoreapp3.1/InheritanceExample.AssemblyInfo.cs
+/Users/ayushmittal/Projects/InheritanceExample/InheritanceExample/obj/Debug/netcoreapp3.1/InheritanceExample.csproj.CoreCompileInputs.cache
+/Users/ayushmittal/Projects/InheritanceExample/InheritanceExample/obj/Debug/netcoreapp3.1/InheritanceExample.dll
+/Users/ayushmittal/Projects/InheritanceExample/InheritanceExample/obj/Debug/netcoreapp3.1/InheritanceExample.pdb
+/Users/ayushmittal/Projects/InheritanceExample/InheritanceExample/obj/Debug/netcoreapp3.1/InheritanceExample.genruntimeconfig.cache

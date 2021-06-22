@@ -1,25 +1,14 @@
 ﻿<Properties StartupConfiguration="{8681FA9C-2B26-49F8-A237-90BB09FEEFF1}|Default">
   <MonoDevelop.Ide.ItemProperties.MySuperBank PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MySuperBank/BankAccount.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MySuperBank/InterestEarningBankAccount.cs">
     <Files>
       <File FileName="MySuperBank/Program.cs" Line="21" Column="45" />
-      <File FileName="MySuperBank/BankAccount.cs" Line="74" Column="33" />
+      <File FileName="MySuperBank/BankAccount.cs" Line="37" Column="43" />
       <File FileName="MySuperBank/Transaction.cs" />
-      <File FileName="MySuperBank/InterestEarningBankAccount.cs" />
+      <File FileName="MySuperBank/InterestEarningBankAccount.cs" Line="1" Column="1" />
       <File FileName="MySuperBank/LineOfCreditAccount.cs" />
       <File FileName="MySuperBank/GiftCardAccount.cs" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="MySuperBank" expanded="True">
-            <Node name="MySuperBank" expanded="True">
-              <Node name="BankAccount.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
